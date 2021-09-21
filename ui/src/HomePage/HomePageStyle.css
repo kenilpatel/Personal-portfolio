@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'Bonheur Royale';
+    font-style: normal;
+    font-weight: 300;
+    src: url('https://fonts.cdnfonts.com/s/24459/Bonheur Royale Regular.woff');
+}
+
+.username {
+    font-family: 'Bonheur Royale', serif;
+    font-size: 4em;
+    color: darkolivegreen;
+}
+
+.header {
+    margin: 0.5em;
+}
+
+.menu {
+    margin: 3em;
+}
+
+.menu a {
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+}
+
+.app-info {
+    margin-top: 0em;
+    padding-top: 0em;
+}

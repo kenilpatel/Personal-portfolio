@@ -1,0 +1,11 @@
+html * {
+    font-family: Quicksand;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.big-font {
+    font-size: 2em;
+}

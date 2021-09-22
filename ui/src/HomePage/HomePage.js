@@ -1,11 +1,9 @@
-import Header from "./Header";
-import MainMenu from "./MainMenu";
+import NavBar from "./NavBar";
 
 const HomePage = () => {
   return (
     <div>
-      <Header />
-      <MainMenu />
+      <NavBar />
     </div>
   );
 };

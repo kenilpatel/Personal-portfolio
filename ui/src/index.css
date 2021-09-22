@@ -1,0 +1,32 @@
+html * {
+    font-family: Quicksand, serif;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.big-font {
+    font-size: 2em;
+}
+
+.add-margin {
+    margin: 0.5em;
+}
+
+.add-extra-margin {
+    margin: 1.5em;
+}
+
+.no-space {
+    margin: 0;
+    padding: 0;
+}
+
+.black-font {
+    color: black;
+}
+
+.grey-background {
+    background: lightgray;
+}

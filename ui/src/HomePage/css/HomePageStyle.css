@@ -30,6 +30,10 @@ a:hover {
     text-decoration: none;
 }
 
+.active {
+    color: darkolivegreen;
+}
+
 .app-info {
     margin-top: 0;
     padding-top: 0;

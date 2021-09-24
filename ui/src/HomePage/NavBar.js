@@ -1,11 +1,11 @@
 import Header from "./Header";
-import MainMenu from "./MainMenu";
+import MenuLinks from "./MenuLinks";
 
 const NavBar = () => {
   return (
     <div className="grey-background navbar">
       <Header />
-      <MainMenu />
+      <MenuLinks />
     </div>
   );
 };

@@ -1,25 +1,27 @@
 import React from "react";
 import "./css/HomePageStyle.css";
+import { Link } from "react-router-dom";
+import constants from "../UI_constatns";
 
-const MainMenu = () => {
+const MenuLinks = () => {
   return (
     <div className="big-font menu float-left">
       <ul className="nav justify-content-left">
         <li className="nav-item">
-          <a href="/home">Home</a>
+          <Link to={constants.HOME}>Home</Link>
         </li>
         <li className="nav-item">
-          <a href="/book-reviews">Book reviews</a>
+          <Link to={constants.BOOK_REVIEW}>Book reviews</Link>
         </li>
         <li className="nav-item">
-          <a href="/write-review">Write a review</a>
+          <Link to={constants.WRITE_REVIEW}>Write a review</Link>
         </li>
         <li className="nav-item">
-          <a href="/upcoming-reading">Upcoming readings</a>
+          <Link to={constants.UPCOMING_READING}>Upcoming readings</Link>
         </li>
       </ul>
     </div>
   );
 };
 
-export default MainMenu;
+export default MenuLinks;

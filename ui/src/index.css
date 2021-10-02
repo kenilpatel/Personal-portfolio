@@ -30,3 +30,7 @@ html * {
 .grey-background {
     background: lightgray;
 }
+
+.center-text {
+    text-align: center;
+}

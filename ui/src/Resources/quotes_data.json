@@ -2,76 +2,151 @@
   {
     "quote": "Do or Do not. There is no try.",
     "author": "Yoda",
-    "id": 112
+    "id": 112,
+    "color": [
+      253,
+      140,
+      7
+    ]
   },
   {
     "quote": "The very things that hold you down are going to lift you up.",
     "author": "Dumbo",
-    "id": 117
+    "id": 117,
+    "color": [
+      253,
+      140,
+      7
+    ]
   },
   {
     "quote": "All we have to decide is what to do with the time that is given to us.",
     "author": "The Fellowship of the Ring",
-    "id": 755
+    "id": 755,
+    "color": [
+      253,
+      140,
+      7
+    ]
   },
   {
     "quote": "It is not our abilities that show what we truly are… it is our choices.",
     "author": "Dumbledore",
-    "id": 789
+    "id": 789,
+    "color": [
+      253,
+      140,
+      7
+    ]
   },
   {
     "quote": "Every man dies, but not every man really lives.",
     "author": "William Wallace",
-    "id": 546
+    "id": 546,
+    "color": [
+      253,
+      140,
+      7
+    ]
   },
   {
     "quote": "Great men are not born great, they grow great.",
     "author": "Mario Puzo",
-    "id": 786
+    "id": 786,
+    "color": [
+      253,
+      140,
+      7
+    ]
   },
   {
     "quote": "Sometimes it is the people who no one imagines anything of who do the things that no one can imagine.",
     "author": "Alan Turing",
-    "id": 456
+    "id": 456,
+    "color": [
+      253,
+      140,
+      7
+    ]
   },
   {
     "quote": "Happiness can be found even in the darkest of times, if one only remembers to turn on the light.",
     "author": "Dumbledore",
-    "id": 787
+    "id": 787,
+    "color": [
+      253,
+      140,
+      7
+    ]
   },
   {
     "quote": "Life’s too short to miss out anything, try to take it slowly.",
     "author": "Ferris",
-    "id": 487
+    "id": 487,
+    "color": [
+      253,
+      140,
+      7
+    ]
   },
   {
     "quote": "We are who we choose to be.",
     "author": "Green Goblin",
-    "id": 877
+    "id": 877,
+    "color": [
+      253,
+      140,
+      7
+    ]
   },
   {
     "quote": "Life is like a box of chocolates, you never know what you’re gonna get.",
     "author": "Forrest Gump",
-    "id": 159
+    "id": 159,
+    "color": [
+      253,
+      140,
+      7
+    ]
   },
   {
     "quote": "Don’t ever let somebody tell you you can’t do something, not even me. Alright? You dream, you gotta protect it. People can’t do something themselves, they wanna tell you you can’t do it. If you want something, go get it.",
     "author": "Chris Gardner",
-    "id": 863
+    "id": 863,
+    "color": [
+      253,
+      140,
+      7
+    ]
   },
   {
     "quote": "You cannot live your life to please others. The choice must be yours.",
     "author": "White Queen",
-    "id": 100
+    "id": 100,
+    "color": [
+      253,
+      140,
+      7
+    ]
   },
   {
     "quote": "To the well-organized mind, death is but the next great adventure.",
     "author": "Dumbledore",
-    "id": 102
+    "id": 102,
+    "color": [
+      253,
+      140,
+      7
+    ]
   },
   {
     "quote": "Time will not slow down when something unpleasant lies ahead.",
     "author": "Dumbledore",
-    "id": 106
+    "id": 106,
+    "color": [
+      253,
+      140,
+      7
+    ]
   }
 ]

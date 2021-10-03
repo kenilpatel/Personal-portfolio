@@ -39,7 +39,6 @@ a:hover {
     padding-top: 0;
 }
 
-/*Online CSS*/
 .quote-box {
     overflow-wrap: break-word;
     background-image: url("../../Resources/quote.png");
@@ -65,4 +64,14 @@ a:hover {
 .author {
     font-weight: bold;
     padding-top: 1em;
+}
+
+.nav-button {
+    margin-top: 2em;
+}
+
+.ui.button {
+    color: darkolivegreen;
+    padding: 2em;
+    margin: 4em;
 }

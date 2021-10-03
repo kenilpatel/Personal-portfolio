@@ -1,7 +1,7 @@
 import { SortableItem } from "react-easy-sort";
 import { useState } from "react";
 
-export default function QuoteBox(props) {
+const QuoteBox = (props) => {
   const [color, setColor] = useState(props.color);
 
   function getBoxColor() {
@@ -43,4 +43,6 @@ export default function QuoteBox(props) {
       </div>
     </SortableItem>
   );
-}
+};
+
+export default QuoteBox;

@@ -2,8 +2,9 @@ import React from "react";
 import SortableList from "react-easy-sort";
 import arrayMove from "array-move";
 import QuoteBox from "./QuoteBox";
+import NavButton from "./NavButton";
 
-export default function QuoteWall() {
+const QuoteWall = () => {
   let quotes = require("../Resources/quotes_data.json");
   console.log(quotes);
   const [items, setItems] = React.useState(quotes);
@@ -25,6 +26,9 @@ export default function QuoteWall() {
           ))}
         </div>
       </SortableList>
+      <NavButton />
     </div>
   );
-}
+};
+
+export default QuoteWall;

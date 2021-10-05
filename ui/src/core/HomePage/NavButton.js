@@ -1,4 +1,4 @@
-import constants from "../UI_constatns";
+import constants from "../../common/UI_constatns";
 
 const NavButton = () => {
   return (

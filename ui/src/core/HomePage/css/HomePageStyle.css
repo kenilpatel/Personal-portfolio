@@ -41,7 +41,7 @@ a:hover {
 
 .quote-box {
     overflow-wrap: break-word;
-    background-image: url("../../Resources/quote.png");
+    background-image: url("../../../Resources/quote.png");
     background-size: cover;
     padding: 1em;
 }

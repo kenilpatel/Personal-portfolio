@@ -1,6 +1,6 @@
 import { Route, Switch } from "react-router-dom";
 import constants from "./UI_constatns";
-import QuoteWall from "./HomePage/QuoteWall";
+import QuoteWall from "../Core/HomePage/QuoteWall";
 
 export default () => {
   return (

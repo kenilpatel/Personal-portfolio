@@ -1,6 +1,6 @@
 import React from "react";
 import "./css/HomePageStyle.css";
-import constants from "../UI_constatns";
+import constants from "../../Common/UI_constatns";
 import { NavLink } from "react-router-dom";
 
 const MenuLinks = () => {

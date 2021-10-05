@@ -1,8 +1,8 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import "./index.css";
+import "./Common/index.css";
 import { BrowserRouter } from "react-router-dom";
-import HomePage from "../Core/HomePage/HomePage";
+import HomePage from "./Core/HomePage/HomePage";
 
 ReactDOM.render(
   <BrowserRouter>

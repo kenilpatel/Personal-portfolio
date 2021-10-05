@@ -4,7 +4,7 @@ import arrayMove from "array-move";
 import QuoteBox from "./QuoteBox";
 
 export default function QuoteWall() {
-  let quotes = require("../Resources/quotes_data.json");
+  let quotes = require("../../Resources/quotes_data.json");
   console.log(quotes);
   const [items, setItems] = React.useState(quotes);
 

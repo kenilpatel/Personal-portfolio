@@ -1,5 +1,5 @@
 import NavBar from "./NavBar";
-import RouteEntries from "../RouteEntries";
+import RouteEntries from "../../common/RouteEntries";
 
 const HomePage = () => {
   return (

@@ -5,7 +5,7 @@ import QuoteBox from "./QuoteBox";
 import NavButton from "./NavButton";
 
 const QuoteWall = () => {
-  let quotes = require("../Resources/quotes_data.json");
+  let quotes = require("../../Resources/quotes_data.json");
   console.log(quotes);
   const [items, setItems] = React.useState(quotes);
 
